@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">1. Which of these values can a boolean variable contain?</string>
+    <string name="question1_choice1">Any Integer Value</string>
+    <string name="question1_choice2"> O and 1</string>
+    <string name="question1_choice3">True and False</string>
+
+    <string name="question2">2. In Java, the word true is......?</string>
+
+    <string name="question3">3. Java is a .............language?</string>
+    <string name="question3_choice1">Strongly typed</string>
+    <string name="question3_choice2">Weakly typed</string>
+    <string name="question3_choice3">Moderate typed</string>
+    <string name="question3_choice4">Non of these</string>
+
+    <string name="question4">4. Size of int in Java is........bit</string>
+
+    <string name="question5">5 How many primitive data types are there in Java?</string>
+    <string name="question5_choice1">6</string>
+    <string name="question5_choice2">8</string>
+    <string name="question5_choice3">7</string>
+
+    <string name="question6">6. What is the base class of all classes?</string>
+
+    <string name="question7">7. Which are the two commonly used Java ID ES?</string>
+    <string name="question7_choice1">Android Studio</string>
+    <string name="question7_choice2">Visual Basic</string>
+    <string name="question7_choice3">Eclipse</string>
+    <string name="question7_choice4">Net beans</string>
+
+    <string name="question8">8. In which year did Google purchase Android?</string>
+
+    <string name="question9">9. A device with Android installed is needed to develop apps for Android?</string>
+    <string name="question9_choice1">True</string>
+    <string name="question9_choice2">False</string>
+
+    <string name="question10">10. To create an emulator, you need an AVD. What does it stand for?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
